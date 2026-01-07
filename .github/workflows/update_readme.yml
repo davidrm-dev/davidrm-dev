@@ -1,18 +1,21 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: "* */24 * * *"
+  schedule: 
+    - cron: "0 */24 * * *"  # Arreglado el cron (cada 24 horas)
   workflow_dispatch:
 
-jobs:
+jobs: 
   build:
     runs-on: ubuntu-latest
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses:  actions/checkout@v4.2.2
       
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets. GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '⚡ Actualización de actividad reciente'
+          MAX_LINES: 5
