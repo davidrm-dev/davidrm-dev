@@ -22,7 +22,6 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 ---
 
 ## 🖥️ Mi actividad reciente
-
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
 
