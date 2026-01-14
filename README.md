@@ -23,14 +23,14 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Davidtch-py/Davidtch-py](https://github.com/Davidtch-py/Davidtch-py)<br>
-2. ⬆️ Pushed undefined commit(s) to [Davidtch-py/Davidtch-py](https://github.com/Davidtch-py/Davidtch-py)<br>
-3. ⬆️ Pushed undefined commit(s) to [Davidtch-py/Davidtch-py](https://github.com/Davidtch-py/Davidtch-py)<br>
-4. ⬆️ Pushed undefined commit(s) to [Davidtch-py/Davidtch-py](https://github.com/Davidtch-py/Davidtch-py)<br>
-5. ⬆️ Pushed undefined commit(s) to [Davidtch-py/Davidtch-py](https://github.com/Davidtch-py/Davidtch-py)<br>
+1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Davidtch-py](https://github.com/davidrm-dev/Davidtch-py)<br>
+2. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Davidtch-py](https://github.com/davidrm-dev/Davidtch-py)<br>
+3. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Davidtch-py](https://github.com/davidrm-dev/Davidtch-py)<br>
+4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Davidtch-py](https://github.com/davidrm-dev/Davidtch-py)<br>
+5. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Davidtch-py](https://github.com/davidrm-dev/Davidtch-py)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 14th, 2026, 4:32:50 AM
+Last Updated: Wednesday, January 14th, 2026, 5:20:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
