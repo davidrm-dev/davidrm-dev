@@ -23,14 +23,14 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/pagina](https://github.com/davidrm-dev/pagina)<br>
-2. ⬆️ Pushed undefined commit(s) to [davidrm-dev/pagina](https://github.com/davidrm-dev/pagina)<br>
-3. ⬆️ Pushed undefined commit(s) to [davidrm-dev/pagina](https://github.com/davidrm-dev/pagina)<br>
-4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/pagina](https://github.com/davidrm-dev/pagina)<br>
-5. ⬆️ Pushed undefined commit(s) to [davidrm-dev/pagina](https://github.com/davidrm-dev/pagina)<br>
+1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Aromas-Quirences](https://github.com/davidrm-dev/Aromas-Quirences)<br>
+2. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Aromas-Quirences](https://github.com/davidrm-dev/Aromas-Quirences)<br>
+3. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Aromas-Quirences](https://github.com/davidrm-dev/Aromas-Quirences)<br>
+4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Aromas-Quirences](https://github.com/davidrm-dev/Aromas-Quirences)<br>
+5. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Aromas-Quirences](https://github.com/davidrm-dev/Aromas-Quirences)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 5th, 2026, 1:44:14 AM
+Last Updated: Thursday, February 5th, 2026, 4:10:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
