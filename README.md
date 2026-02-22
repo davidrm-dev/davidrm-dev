@@ -23,14 +23,14 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Aromas-Quirences](https://github.com/davidrm-dev/Aromas-Quirences)<br>
+1. 🤝 Became collaborator on [Karenn768/flight-reservation](https://github.com/Karenn768/flight-reservation)<br>
 2. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Aromas-Quirences](https://github.com/davidrm-dev/Aromas-Quirences)<br>
 3. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Aromas-Quirences](https://github.com/davidrm-dev/Aromas-Quirences)<br>
 4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Aromas-Quirences](https://github.com/davidrm-dev/Aromas-Quirences)<br>
 5. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Aromas-Quirences](https://github.com/davidrm-dev/Aromas-Quirences)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 22nd, 2026, 1:47:43 AM
+Last Updated: Sunday, February 22nd, 2026, 4:12:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
