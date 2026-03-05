@@ -23,10 +23,11 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Karenn768/flight-reservation](https://github.com/Karenn768/flight-reservation)<br>
+1. ⭐ Starred [a-bonus/google-docs-mcp](https://github.com/a-bonus/google-docs-mcp)<br>
+2. 🤝 Became collaborator on [Karenn768/flight-reservation](https://github.com/Karenn768/flight-reservation)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 5th, 2026, 1:04:38 PM
+Last Updated: Thursday, March 5th, 2026, 2:10:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
