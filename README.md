@@ -26,7 +26,7 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 1. ⭐ Starred [a-bonus/google-docs-mcp](https://github.com/a-bonus/google-docs-mcp)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 29th, 2026, 8:28:32 PM
+Last Updated: Sunday, March 29th, 2026, 8:58:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
