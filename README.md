@@ -23,14 +23,14 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [platzi/curso-ai-devs](https://github.com/platzi/curso-ai-devs)<br>
-2. ⬆️ Pushed undefined commit(s) to [davidrm-dev/curso-ai-devs](https://github.com/davidrm-dev/curso-ai-devs)<br>
-3. 🔱 Forked [davidrm-dev/curso-ai-devs](https://github.com/davidrm-dev/curso-ai-devs) from [platzi/curso-ai-devs](https://github.com/platzi/curso-ai-devs)<br>
-4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/App-Arboles](https://github.com/davidrm-dev/App-Arboles)<br>
-5. ⭐ Starred [a-bonus/google-docs-mcp](https://github.com/a-bonus/google-docs-mcp)<br>
+1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/App-Arboles](https://github.com/davidrm-dev/App-Arboles)<br>
+2. 💪 Opened PR [#1](undefined) in [platzi/curso-ai-devs](https://github.com/platzi/curso-ai-devs)<br>
+3. ⬆️ Pushed undefined commit(s) to [davidrm-dev/curso-ai-devs](https://github.com/davidrm-dev/curso-ai-devs)<br>
+4. 🔱 Forked [davidrm-dev/curso-ai-devs](https://github.com/davidrm-dev/curso-ai-devs) from [platzi/curso-ai-devs](https://github.com/platzi/curso-ai-devs)<br>
+5. ⬆️ Pushed undefined commit(s) to [davidrm-dev/App-Arboles](https://github.com/davidrm-dev/App-Arboles)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 31st, 2026, 8:38:18 PM
+Last Updated: Tuesday, March 31st, 2026, 9:34:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
