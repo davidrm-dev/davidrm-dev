@@ -23,14 +23,14 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/El-Muro-Microservicio](https://github.com/davidrm-dev/El-Muro-Microservicio)<br>
-2. 💪 Opened PR [#10](undefined) in [davidrm-dev/El-Muro-Microservicio](https://github.com/davidrm-dev/El-Muro-Microservicio)<br>
+1. 🤝 Became collaborator on [AngelaRP19/Service-mesh](https://github.com/AngelaRP19/Service-mesh)<br>
+2. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)<br>
 3. ⬆️ Pushed undefined commit(s) to [davidrm-dev/El-Muro-Microservicio](https://github.com/davidrm-dev/El-Muro-Microservicio)<br>
-4. 💪 Opened PR [#7](undefined) in [davidrm-dev/El-Muro-Microservicio](https://github.com/davidrm-dev/El-Muro-Microservicio)<br>
+4. 💪 Opened PR [#10](undefined) in [davidrm-dev/El-Muro-Microservicio](https://github.com/davidrm-dev/El-Muro-Microservicio)<br>
 5. ⬆️ Pushed undefined commit(s) to [davidrm-dev/El-Muro-Microservicio](https://github.com/davidrm-dev/El-Muro-Microservicio)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 29th, 2026, 5:54:58 PM
+Last Updated: Wednesday, April 29th, 2026, 7:17:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
