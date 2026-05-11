@@ -23,14 +23,14 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AngelaRP19/Service-mesh](https://github.com/AngelaRP19/Service-mesh)<br>
-2. ⬆️ Pushed undefined commit(s) to [AngelaRP19/Service-mesh](https://github.com/AngelaRP19/Service-mesh)<br>
-3. 💪 Opened PR [#39491](undefined) in [JetBrains/swot](https://github.com/JetBrains/swot)<br>
-4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/swot](https://github.com/davidrm-dev/swot)<br>
-5. 🔱 Forked [davidrm-dev/swot](https://github.com/davidrm-dev/swot) from [JetBrains/swot](https://github.com/JetBrains/swot)<br>
+1. 💪 Opened PR [#1](undefined) in [AngelaRP19/TallerDDD](https://github.com/AngelaRP19/TallerDDD)<br>
+2. ⬆️ Pushed undefined commit(s) to [davidrm-dev/TallerDDD](https://github.com/davidrm-dev/TallerDDD)<br>
+3. 💪 Opened PR [#1](undefined) in [davidrm-dev/TallerDDD](https://github.com/davidrm-dev/TallerDDD)<br>
+4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/TallerDDD](https://github.com/davidrm-dev/TallerDDD)<br>
+5. 🔱 Forked [davidrm-dev/TallerDDD](https://github.com/davidrm-dev/TallerDDD) from [AngelaRP19/TallerDDD](https://github.com/AngelaRP19/TallerDDD)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 11th, 2026, 6:16:58 PM
+Last Updated: Monday, May 11th, 2026, 8:14:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
