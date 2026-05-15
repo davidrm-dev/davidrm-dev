@@ -23,9 +23,14 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. 💪 Opened PR [#1](undefined) in [AngelaRP19/TallerDDD](https://github.com/AngelaRP19/TallerDDD)<br>
+2. ⬆️ Pushed undefined commit(s) to [davidrm-dev/TallerDDD](https://github.com/davidrm-dev/TallerDDD)<br>
+3. 💪 Opened PR [#1](undefined) in [davidrm-dev/TallerDDD](https://github.com/davidrm-dev/TallerDDD)<br>
+4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/TallerDDD](https://github.com/davidrm-dev/TallerDDD)<br>
+5. 🔱 Forked [davidrm-dev/TallerDDD](https://github.com/davidrm-dev/TallerDDD) from [AngelaRP19/TallerDDD](https://github.com/AngelaRP19/TallerDDD)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 15th, 2026, 3:00:34 PM
+Last Updated: Friday, May 15th, 2026, 5:07:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
