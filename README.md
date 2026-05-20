@@ -30,7 +30,7 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 5. 🔱 Forked [davidrm-dev/TallerDDD](https://github.com/davidrm-dev/TallerDDD) from [AngelaRP19/TallerDDD](https://github.com/AngelaRP19/TallerDDD)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 19th, 2026, 11:58:43 PM
+Last Updated: Wednesday, May 20th, 2026, 4:02:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
