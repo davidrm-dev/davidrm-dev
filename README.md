@@ -24,10 +24,9 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/chibchascript](https://github.com/davidrm-dev/chibchascript)<br>
-2. ⬆️ Pushed undefined commit(s) to [AngelaRP19/El-Muro](https://github.com/AngelaRP19/El-Muro)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 3rd, 2026, 9:40:37 AM
+Last Updated: Friday, July 3rd, 2026, 12:05:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
