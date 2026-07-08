@@ -25,7 +25,7 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 8th, 2026, 7:39:51 PM
+Last Updated: Wednesday, July 8th, 2026, 9:01:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
