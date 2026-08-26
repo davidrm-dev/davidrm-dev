@@ -23,14 +23,14 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Front-Reto-T-cnico](https://github.com/davidrm-dev/Front-Reto-T-cnico)<br>
-2. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Front-Reto-T-cnico](https://github.com/davidrm-dev/Front-Reto-T-cnico)<br>
-3. 💪 Opened PR [#47](undefined) in [AngelaRP19/Front-Reto-T-cnico](https://github.com/AngelaRP19/Front-Reto-T-cnico)<br>
-4. 🔱 Forked [davidrm-dev/Front-Reto-T-cnico](https://github.com/davidrm-dev/Front-Reto-T-cnico) from [AngelaRP19/Front-Reto-T-cnico](https://github.com/AngelaRP19/Front-Reto-T-cnico)<br>
-5. ⬆️ Pushed undefined commit(s) to [davidrm-dev/web-pyday-boyaca](https://github.com/davidrm-dev/web-pyday-boyaca)<br>
+1. 💪 Opened PR [#5](undefined) in [ColombiaPython/web-pyday-boyaca](https://github.com/ColombiaPython/web-pyday-boyaca)<br>
+2. ⬆️ Pushed undefined commit(s) to [davidrm-dev/web-pyday-boyaca](https://github.com/davidrm-dev/web-pyday-boyaca)<br>
+3. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Front-Reto-T-cnico](https://github.com/davidrm-dev/Front-Reto-T-cnico)<br>
+4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Front-Reto-T-cnico](https://github.com/davidrm-dev/Front-Reto-T-cnico)<br>
+5. 💪 Opened PR [#47](undefined) in [AngelaRP19/Front-Reto-T-cnico](https://github.com/AngelaRP19/Front-Reto-T-cnico)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 26th, 2026, 1:49:43 PM
+Last Updated: Wednesday, August 26th, 2026, 2:38:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
