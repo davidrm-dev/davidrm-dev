@@ -30,7 +30,7 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 5. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Front-Reto-T-cnico](https://github.com/davidrm-dev/Front-Reto-T-cnico)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 17th, 2026, 10:59:00 PM
+Last Updated: Friday, September 18th, 2026, 1:08:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
