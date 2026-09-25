@@ -24,11 +24,9 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/web-pyday-boyaca](https://github.com/davidrm-dev/web-pyday-boyaca)<br>
-2. 💪 Opened PR [#5](undefined) in [ColombiaPython/web-pyday-boyaca](https://github.com/ColombiaPython/web-pyday-boyaca)<br>
-3. ⬆️ Pushed undefined commit(s) to [davidrm-dev/web-pyday-boyaca](https://github.com/davidrm-dev/web-pyday-boyaca)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 25th, 2026, 7:05:10 PM
+Last Updated: Friday, September 25th, 2026, 10:35:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
