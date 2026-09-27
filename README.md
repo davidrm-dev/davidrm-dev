@@ -24,12 +24,13 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/builder-badge-bot](https://github.com/davidrm-dev/builder-badge-bot)<br>
-2. 💪 Opened PR [#3](undefined) in [davidrm-dev/builder-badge-bot](https://github.com/davidrm-dev/builder-badge-bot)<br>
-3. ⬆️ Pushed undefined commit(s) to [davidrm-dev/builder-badge-bot](https://github.com/davidrm-dev/builder-badge-bot)<br>
-4. ❌ Closed PR [#1](undefined) in [davidrm-dev/builder-badge-bot](https://github.com/davidrm-dev/builder-badge-bot)<br>
+2. ⬆️ Pushed undefined commit(s) to [davidrm-dev/builder-badge-bot](https://github.com/davidrm-dev/builder-badge-bot)<br>
+3. 💪 Opened PR [#3](undefined) in [davidrm-dev/builder-badge-bot](https://github.com/davidrm-dev/builder-badge-bot)<br>
+4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/builder-badge-bot](https://github.com/davidrm-dev/builder-badge-bot)<br>
+5. ❌ Closed PR [#1](undefined) in [davidrm-dev/builder-badge-bot](https://github.com/davidrm-dev/builder-badge-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 27th, 2026, 7:27:43 PM
+Last Updated: Sunday, September 27th, 2026, 10:28:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
