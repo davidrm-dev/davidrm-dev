@@ -25,12 +25,12 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Cuentas-bot](https://github.com/davidrm-dev/Cuentas-bot)<br>
 2. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Cuentas-bot](https://github.com/davidrm-dev/Cuentas-bot)<br>
-3. ⬆️ Pushed undefined commit(s) to [davidrm-dev/builder-badge-bot](https://github.com/davidrm-dev/builder-badge-bot)<br>
-4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/builder-badge-bot](https://github.com/davidrm-dev/builder-badge-bot)<br>
-5. ⬆️ Pushed undefined commit(s) to [davidrm-dev/builder-badge-bot](https://github.com/davidrm-dev/builder-badge-bot)<br>
+3. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Cuentas-bot](https://github.com/davidrm-dev/Cuentas-bot)<br>
+4. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Cuentas-bot](https://github.com/davidrm-dev/Cuentas-bot)<br>
+5. ⬆️ Pushed undefined commit(s) to [davidrm-dev/Cuentas-bot](https://github.com/davidrm-dev/Cuentas-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 12th, 2026, 7:53:11 AM
+Last Updated: Monday, October 12th, 2026, 5:15:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
