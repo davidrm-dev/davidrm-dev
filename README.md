@@ -23,10 +23,9 @@ Backend, bases de datos y ganas de aprender bien las cosas.
 
 ## 🖥️ Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [davidrm-dev/builder-badge-bot](https://github.com/davidrm-dev/builder-badge-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 22nd, 2026, 4:43:31 AM
+Last Updated: Sunday, November 22nd, 2026, 1:00:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Tech stack
